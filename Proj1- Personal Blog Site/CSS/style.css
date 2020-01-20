@@ -1,0 +1,15 @@
+@import url("style1.css");
+@import url("style2.css");
+@import url("style3.css");
+
+* {
+	box-sizing: border-box;
+	margin: 0 auto;
+	padding: 0;
+}
+
+body {
+	background-image: url("../Images/Woodfloor.jpg");
+	height: auto;
+	width: auto;
+}

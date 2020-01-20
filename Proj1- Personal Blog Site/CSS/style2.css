@@ -1,0 +1,21 @@
+.jag-image {
+	border: 3px solid #f2f2f2;
+	border-radius: 50%;
+	height: 15rem;
+	margin-bottom: 3rem;
+}
+
+.top-nav-link {
+	display: grid;
+	grid-template-rows: 1fr 1fr;
+	padding-bottom: 3rem;
+}
+
+.top-nav-link a {
+	color: #f2f2f2;
+	font: 400 130px/0.8 'Great Vibes', Helvetica, sans-serif;
+  	text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
+	font-size: 1.75rem;
+	padding: .7rem;
+	text-decoration: none;
+	}
